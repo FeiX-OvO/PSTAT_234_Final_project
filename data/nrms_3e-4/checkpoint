@@ -1,0 +1,2 @@
+model_checkpoint_path: "nrms_ckpt_503e-4"
+all_model_checkpoint_paths: "nrms_ckpt_503e-4"

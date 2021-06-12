@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstur_lr3e-4_50"
+all_model_checkpoint_paths: "lstur_lr3e-4_50"
